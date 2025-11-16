@@ -1,0 +1,43 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* binary
+
+config/
+*.gif
+
+version.properties
+
+.attach_*
+## Java
+
+*.class
+*.war
+*.ear
+hs_err_pid*
+crash-report-*
+
+## Android Studio and Intellij and Android in general
+.idea/
+*.ipr
+*.iws
+*.iml
+
+## Eclipse
+
+.classpath
+.project
+.metadata/
+*.tmp
+*.bak
+*.swp
+*~.nib
+.settings/
+.loadpath
+.externalToolBuilders/
+*.launch
+
+build/
+
+## OS Specific
+.DS_Store
+Thumbs.db
+cmd.exe
