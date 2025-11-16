@@ -1,2 +1,3 @@
 # RELAY-Player
-Rusted Warfare : Proxy Player
+让玩家隐藏在某个服务器后方, 使其无法被探测.
+为保护隐私使用
